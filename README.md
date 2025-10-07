@@ -1,4 +1,4 @@
-![Animais Fantásticos banner](img/mockup_banner_885x216.png)
+![Animais Fantásticos banner](img/slide/mockup_banner_885x216.png)
 
 # Animais Fantásticos!
 
