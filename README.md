@@ -24,7 +24,7 @@ Animais Fantásticos é uma landing page responsiva que apresenta curiosidades s
 
 ## 💡 Expressões de gratidão
 
-* Projeto desenvolvido durante uma das aulas da Origamid.
+* Projeto desenvolvido durante as aulas do curso de JS da Origamid.
 
 ## Meu Linkedin!
 * [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abedias-ribeiro-2b33b426b)
