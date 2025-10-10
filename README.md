@@ -13,7 +13,7 @@ Animais Fantásticos é uma landing page responsiva que apresenta curiosidades s
 
 # Link
 
-* (https://abediaslor.github.io/Projeto-Animais/)
+* https://abediaslor.github.io/Projeto-Animais/
 
 
 ## 👷 Autores
