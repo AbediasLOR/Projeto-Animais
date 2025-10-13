@@ -216,6 +216,12 @@ body {
   }
 }
 
+@media (max-width: 500px) {
+  .faq-lista dd {
+    margin-bottom: 2.5rem;
+  }
+}
+
 .js [data-tab="content"] section {
   display: none;
 }
